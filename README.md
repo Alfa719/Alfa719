@@ -1,4 +1,4 @@
-### Hi Kontol 👋
+### Hi Minna 👋
 
 <a href="https://github.com/Alfa719">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Alfa719&theme=algolia&show_icons=true&count_private=true" />
